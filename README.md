@@ -1,1 +1,1 @@
-# Desktop-BlogApp
+# DesktopApp-BlogManager
